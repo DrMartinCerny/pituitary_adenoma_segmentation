@@ -1,0 +1,10 @@
+h5py>=2.10.0
+Keras>=2.4.3
+numpy>=1.20.1
+opencv-python>=4.5.3.56
+scikit-learn>=0.24.1
+scipy>=1.6.2
+SimpleITK>=2.1.0
+tensorflow>=2.3.0
+pyyaml>=5.4.1
+wget>=3.2
